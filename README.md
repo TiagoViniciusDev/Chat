@@ -1,6 +1,6 @@
 O projeto consiste em um chat em tempo real, onde você escolhe o nome de usuário e envia uma mensagem. Foi feito usando Next.js, Node.js, tailwindCSS e a biblioteca Socket.io
 
-![chat](Images/chat.png)
+![chat](images/chat.png)
 
 ### Instalando dependências
 Acesse a pasta "backend" no terminal e digite o comando abaixo para instalar as dependências, faça o mesmo processo com a pasta "client" 
